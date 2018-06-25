@@ -1,0 +1,426 @@
+MilkShape 3D 1.7.0
+Parsing OpenGL configuration...
+Initializing mxToolKit...
+Loading globals...
+Creating Application...
+Initializing DevIL...
+Loading...
+Initializing PluginManager...
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\ms3DSExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\ms3DSExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\ms3DSImporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\ms3DSImporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\ms3dtExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\ms3dtExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msABCExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msABCExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msABCImporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msABCImporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msAlignment.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msAlignment.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msASCIIExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msASCIIExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msASCIIImporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msASCIIImporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msBasePlug.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msBasePlug.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msBlitz3DExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msBlitz3DExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msBridge.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msBridge.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msClean.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msClean.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msCPP.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msCreateFace.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msCreateFace.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msD3DExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msD3DExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msDirectXMeshTools.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msDirectXMeshTools.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msExtrudeEdges.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msExtrudeEdges.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msGenMAPExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msGenMAPExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msGLMImporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msGLMImporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msHeightMap.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msHeightMap.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msHideFaces.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msHideFaces.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msJointTool.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msJointTool.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msLathe.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msLathe.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msLUVImporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msLUVImporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msLWOExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msLWOExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msLWOImporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msLWOImporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msManualEdit.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msManualEdit.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msMAPExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msMAPExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msMDCImporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msMDCImporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msMDCImporter2.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msMDCImporter2.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msMDLDecompiler.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msMDLDecompiler.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msMDXImporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msMDXImporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msModelLib.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msNebulaExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msNebulaExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msNODExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msNODExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msNODImporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msNODImporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msNovodeX.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msNovodeX.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msOperationMirrorAll.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msOperationMirrorAll.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msOperationSmoothEdge.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msOperationSmoothEdge.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msOrbiterMesh.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msOrbiterMesh.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msPOVRay35Exporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msPOVRay35Exporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msPrimitiveObject.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msPrimitiveObject.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msPSKExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msPSKExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msPSKImporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msPSKImporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msQOBImporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msQOBImporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msRawExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msRawExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msRawImporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msRawImporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msRF2Exporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msRF2Exporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msRF2Importer.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msRF2Importer.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msRIBExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msRIBExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msRotateAll.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msRotateAll.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msScaleAnim.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msScaleAnim.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msSelectionEditor.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msSelectionEditor.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msSelPolyCount.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msSelPolyCount.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msShortCutMgr.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msShortCutMgr.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msSnap.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msSnap.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msStretch.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msStretch.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msTerGen.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msTerGen.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msTextGen.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msTextGen.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msTileTextureMapper.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msTileTextureMapper.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msTMDImporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msTMDImporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msToolArray.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msToolArray.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msToolCleanModel.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msToolCleanModel.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msToolExplode.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msToolExplode.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msToolFatBoy.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msToolFatBoy.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msToolJS.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msToolJS.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msToolReverseAnimation.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msToolReverseAnimation.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msToolScaleAll.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msToolScaleAll.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msUnify.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msUnify.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\MSVCP60.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msVertexPlane.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msVertexPlane.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msVRML97Exporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msVRML97Exporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msXExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msXExporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msXSIImporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msXSIImporter.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msYafray.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msYafray.dll
+Trying PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msZy3DOExporter.dll
+Loading PlugIn: D:\Arquivos de programas\MilkShape 3D 1.7.0\msZy3DOExporter.dll
+Creating menubar...
+Creating message window...
+Creating ViewportManager...
+mxGlWindow, GetDC
+mxGlWindow, ChoosePixelFormat
+mxGlWindow, SetPixelFormat
+PixelFormat: 3
+
+PixelFormat = 3
+ nSize = 40
+ nVersion = 1
+ dwFlags = 
+PFD_DRAW_TO_WINDOW|
+PFD_SUPPORT_OPENGL|
+PFD_DOUBLEBUFFER|
+ iPixelType = 
+PFD_TYPE_RGBA
+*cColorBits = 32
+ cRedBits = 0
+ cRedShift = 0
+ cGreenBits = 0
+ cGreenShift = 0
+ cBlueBits = 0
+ cBlueShift = 0
+ cAlphaBits = 0
+ cAlphaShift = 0
+ cAccumBits = 0
+ cAccumRedBits = 0
+ cAccumGreenBits = 0
+ cAccumBlueBits = 0
+ cAccumAlphaBits = 0
+*cDepthBits = 32
+*cStencilBits = 0
+ cAuxBuffers = 0
+ iLayerType = 0
+ bReserved = 0
+ dwLayerMask = 0
+ dwVisibleMask = 0
+ dwDamageMask = 0
+
+
+mxGlWindow, wglCreateContext
+mxGlWindow, wglMakeCurrent
+mxGlWindow, GetDC
+mxGlWindow, ChoosePixelFormat
+mxGlWindow, SetPixelFormat
+PixelFormat: 3
+
+PixelFormat = 3
+ nSize = 40
+ nVersion = 1
+ dwFlags = 
+PFD_DRAW_TO_WINDOW|
+PFD_SUPPORT_OPENGL|
+PFD_DOUBLEBUFFER|
+ iPixelType = 
+PFD_TYPE_RGBA
+*cColorBits = 32
+ cRedBits = 0
+ cRedShift = 0
+ cGreenBits = 0
+ cGreenShift = 0
+ cBlueBits = 0
+ cBlueShift = 0
+ cAlphaBits = 0
+ cAlphaShift = 0
+ cAccumBits = 0
+ cAccumRedBits = 0
+ cAccumGreenBits = 0
+ cAccumBlueBits = 0
+ cAccumAlphaBits = 0
+*cDepthBits = 32
+*cStencilBits = 0
+ cAuxBuffers = 0
+ iLayerType = 0
+ bReserved = 0
+ dwLayerMask = 0
+ dwVisibleMask = 0
+ dwDamageMask = 0
+
+
+mxGlWindow, wglCreateContext
+mxGlWindow, wglMakeCurrent
+mxGlWindow, GetDC
+mxGlWindow, ChoosePixelFormat
+mxGlWindow, SetPixelFormat
+PixelFormat: 3
+
+PixelFormat = 3
+ nSize = 40
+ nVersion = 1
+ dwFlags = 
+PFD_DRAW_TO_WINDOW|
+PFD_SUPPORT_OPENGL|
+PFD_DOUBLEBUFFER|
+ iPixelType = 
+PFD_TYPE_RGBA
+*cColorBits = 32
+ cRedBits = 0
+ cRedShift = 0
+ cGreenBits = 0
+ cGreenShift = 0
+ cBlueBits = 0
+ cBlueShift = 0
+ cAlphaBits = 0
+ cAlphaShift = 0
+ cAccumBits = 0
+ cAccumRedBits = 0
+ cAccumGreenBits = 0
+ cAccumBlueBits = 0
+ cAccumAlphaBits = 0
+*cDepthBits = 32
+*cStencilBits = 0
+ cAuxBuffers = 0
+ iLayerType = 0
+ bReserved = 0
+ dwLayerMask = 0
+ dwVisibleMask = 0
+ dwDamageMask = 0
+
+
+mxGlWindow, wglCreateContext
+mxGlWindow, wglMakeCurrent
+mxGlWindow, GetDC
+mxGlWindow, ChoosePixelFormat
+mxGlWindow, SetPixelFormat
+PixelFormat: 3
+
+PixelFormat = 3
+ nSize = 40
+ nVersion = 1
+ dwFlags = 
+PFD_DRAW_TO_WINDOW|
+PFD_SUPPORT_OPENGL|
+PFD_DOUBLEBUFFER|
+ iPixelType = 
+PFD_TYPE_RGBA
+*cColorBits = 32
+ cRedBits = 0
+ cRedShift = 0
+ cGreenBits = 0
+ cGreenShift = 0
+ cBlueBits = 0
+ cBlueShift = 0
+ cAlphaBits = 0
+ cAlphaShift = 0
+ cAccumBits = 0
+ cAccumRedBits = 0
+ cAccumGreenBits = 0
+ cAccumBlueBits = 0
+ cAccumAlphaBits = 0
+*cDepthBits = 32
+*cStencilBits = 0
+ cAuxBuffers = 0
+ iLayerType = 0
+ bReserved = 0
+ dwLayerMask = 0
+ dwVisibleMask = 0
+ dwDamageMask = 0
+
+
+mxGlWindow, wglCreateContext
+mxGlWindow, wglMakeCurrent
+Creating ControlPanel...
+Creating Material Preview...
+mxGlWindow, GetDC
+mxGlWindow, ChoosePixelFormat
+mxGlWindow, SetPixelFormat
+PixelFormat: 3
+
+PixelFormat = 3
+ nSize = 40
+ nVersion = 1
+ dwFlags = 
+PFD_DRAW_TO_WINDOW|
+PFD_SUPPORT_OPENGL|
+PFD_DOUBLEBUFFER|
+ iPixelType = 
+PFD_TYPE_RGBA
+*cColorBits = 32
+ cRedBits = 0
+ cRedShift = 0
+ cGreenBits = 0
+ cGreenShift = 0
+ cBlueBits = 0
+ cBlueShift = 0
+ cAlphaBits = 0
+ cAlphaShift = 0
+ cAccumBits = 0
+ cAccumRedBits = 0
+ cAccumGreenBits = 0
+ cAccumBlueBits = 0
+ cAccumAlphaBits = 0
+*cDepthBits = 32
+*cStencilBits = 0
+ cAuxBuffers = 0
+ iLayerType = 0
+ bReserved = 0
+ dwLayerMask = 0
+ dwVisibleMask = 0
+ dwDamageMask = 0
+
+
+mxGlWindow, wglCreateContext
+mxGlWindow, wglMakeCurrent
+Creating StatusBar...
+Creating TexCoordEditor...
+mxGlWindow, GetDC
+mxGlWindow, ChoosePixelFormat
+mxGlWindow, SetPixelFormat
+PixelFormat: 3
+
+PixelFormat = 3
+ nSize = 40
+ nVersion = 1
+ dwFlags = 
+PFD_DRAW_TO_WINDOW|
+PFD_SUPPORT_OPENGL|
+PFD_DOUBLEBUFFER|
+ iPixelType = 
+PFD_TYPE_RGBA
+*cColorBits = 32
+ cRedBits = 0
+ cRedShift = 0
+ cGreenBits = 0
+ cGreenShift = 0
+ cBlueBits = 0
+ cBlueShift = 0
+ cAlphaBits = 0
+ cAlphaShift = 0
+ cAccumBits = 0
+ cAccumRedBits = 0
+ cAccumGreenBits = 0
+ cAccumBlueBits = 0
+ cAccumAlphaBits = 0
+*cDepthBits = 32
+*cStencilBits = 0
+ cAuxBuffers = 0
+ iLayerType = 0
+ bReserved = 0
+ dwLayerMask = 0
+ dwVisibleMask = 0
+ dwDamageMask = 0
+
+
+mxGlWindow, wglCreateContext
+mxGlWindow, wglMakeCurrent
+Creating KeyFramer...
+Creating Preferences...
+Initializing keyframer...
+Max Tex Size: 1024
+Downloading background textures...
+
+glGetStrings:
+GDI Generic
+Microsoft Corporation
+1.1.0
+GL_WIN_swap_hint GL_EXT_bgra GL_EXT_paletted_texture
+Settings window placement...
+Error loading texture ".\mapa simples.bmp": could not open file [1290].
+
+Error downloading material: "Materia Prima"
+
+Preparing Context...
+Done.
+1
+2
+Running application...
+Cleaning up mxToolKit.
